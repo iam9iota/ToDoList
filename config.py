@@ -1,0 +1,24 @@
+DARK_PURPLE="#312C51"
+PURPLE="#48426D"
+ORANGE="#F0C38E"
+PINK="#F1AA9B"
+GREEN="#52a552"
+RED="#FF0000"
+MAGENTA="#92A8D1"
+GREEN="#50C878"
+
+FONT="HP Simplified"
+FONT_CLOCK="Century Gothic"
+
+MEDIUM="#f7f4a6"
+HIGH="#e22725"
+
+LIGHT_PINK = "#ffcce7"
+SAGE = "#daf2dc"
+SKY_BLUE = "#87ceeb"
+GRAPE = "#4d5198"
+
+RED = "#d72631"
+SEA_FOAM = "#a2d5c6"
+JADE = "#077b8a"
+VIOLET = "#3b3759"
